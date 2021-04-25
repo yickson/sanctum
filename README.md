@@ -1,4 +1,6 @@
-# airlock
+# Sanctum API
+
+Es una API solo para probar el login de Laravel Sanctum con Vuejs a través de Axios. 
 
 ## Project setup
 ```
